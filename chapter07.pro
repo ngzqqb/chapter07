@@ -1,5 +1,5 @@
 
 TEMPLATE = subdirs
 
-SUBDIRS += 
-
+SUBDIRS += chart_view_module
+SUBDIRS += chart_view
