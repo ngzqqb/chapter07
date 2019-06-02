@@ -5,6 +5,7 @@ import QtQuick.Controls 2.12
 /*begin:import*/
 import theqml_the_debug.sstd.styled.app 1.0
 import theqml_the_debug.chart_view_module 1.0
+import theqml_the_debug.qml_files_dir_loader_module 1.0
 /*end:import*/
 
 StyledApplicationWindow {
